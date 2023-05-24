@@ -21,3 +21,15 @@ a:active {
     background-color: transparent;
     text-decoration: underline;
 }
+
+button:hover {
+    color: rgb(46, 46, 54);
+    background-color: rgb(46, 46, 54);
+    text-decoration: none;
+}
+
+button:button {
+    color:rgb(161, 162, 255);
+    background-color: rgb(161, 162, 255);
+    text-decoration: none;
+}
